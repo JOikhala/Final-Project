@@ -1,9 +1,9 @@
 # Final-Project Data Analyst
 In this repository contains a detailed explanation of the final project. 
 
-**Project Title :-** "Strained Shelters": A view of housing cost burdens across German households over the years. 
+### **Project Title :-** "Strained Shelters": A view of housing cost burdens across German households over the years. 
 
-**Objective :-** Provide affordable housing solutions for quality, sustainable and accessible homes. 
+### **Objective :-** Provide affordable housing solutions for quality, sustainable and accessible homes. 
 
 This project was collaboratively developed and completed by _**Janice Oikhala**_ and _**Himani Singh**_, whose combined efforts and contributions were essential to its success.
 
@@ -18,7 +18,7 @@ The first dataset, titled _**Net Income Data**_," focuses on individuals living 
 The second dataset called _**Rent Prices**_ provides insights into rental prices across the federal states of Germany for the period spanning 2022 to 2024. It offers a regional perspective on housing costs, complementing the information from the first dataset. The data can be seen at [Miet-check.de](https://www.miet-check.de/statistiken-bundeslaender.php). <br>
 
 
-**Approach Used :-** 
+### **Approach Used :-** 
 - _**Exploratory Data Analysis (EDA)**_ : Examine trends in housing cost burden over time, compare across various household types, and identify changes in the population at risk of poverty.
 - _**Visual Representations**_ : Utilize line plots and stacked bar charts to highlight key patterns—particularly among vulnerable groups such as single-parent households.
 - _**Key Insights to Explore**_ : Determine which groups face the highest housing burden and how this has evolved over time. Consider how these trends can inform and influence future housing policy decisions.
