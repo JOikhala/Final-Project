@@ -1,5 +1,5 @@
 # Final-Project Data Analyst
-In this repository contains a detailed explanation of the final project. 
+This repository contains a detailed explanation of the final project. 
 
 ### Project Title :- 
 **"Strained Shelters": A view of housing cost burdens across German households over the years.** 
