@@ -9,6 +9,7 @@ This project was collaboratively developed and completed by _**Janice Oikhala**_
 
 <br>
 
+In our analysis we explored increasing housing costs are impacting different household structures in Germany from 2020–2024, and identify which groups are at greatest risk of housing-related financial strain. What would this then mean for policy recommendations and how can the social mix in tight housing markets can be improved ?
 
 Our analysis is based on two datasets.
 
