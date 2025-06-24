@@ -31,9 +31,9 @@ The second dataset called _**Rent Prices**_ provides insights into rental prices
 
 To help us explore the data and uncover meaningful patterns, we came up with the following hypotheses. They give us a clearer picture of how housing costs affect different types of households.
 
-1(a): _"People who live alone and Single Parents are at greatest risk of Poverty"_ see; [Hypothesis_1(a)](<./Hypothesis_1.1.ipynb>)
+1(a): _"People who live alone and Single Parents are at greatest risk of Poverty"_ see; [Hypothesis_1(a)](<./Hypothesis_1(a).ipynb>)
 
-1(b):  _"Housing cost burden is rising across all income levels"_ see; [Hypothesis_1(b)](<./Hypothesis_1.2.ipynb>)
+1(b):  _"Housing cost burden is rising across all income levels"_ see; [Hypothesis_1(b)](<./Hypothesis_1(b).ipynb>)
 
 2:  _"Rent prices have risen faster in urban federal states like Hamburg and Berlin than others"_ see; [Hypothesis_2](<./Hypothesis_2.ipynb>)
 
